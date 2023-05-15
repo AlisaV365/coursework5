@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "80099865",
+        "title": "Диспетчер чатов, удаленно",
+        "url": "https://api.hh.ru/vacancies/80099865?host=hh.ru",
+        "salary_from": 26000,
+        "salary_to": 40000,
+        "employer": "Яндекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80100458",
+        "title": "Менеджер чатов на дому (в Яндекс)",
+        "url": "https://api.hh.ru/vacancies/80100458?host=hh.ru",
+        "salary_from": 26000,
+        "salary_to": 40000,
+        "employer": "Яндекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80094285",
+        "title": "Удаленный диспетчер чатов (в Яндекс)",
+        "url": "https://api.hh.ru/vacancies/80094285?host=hh.ru",
+        "salary_from": 26000,
+        "salary_to": 40000,
+        "employer": "Яндекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80098553",
+        "title": "Оператор на входящие сообщения (удаленно, в Яндекс)",
+        "url": "https://api.hh.ru/vacancies/80098553?host=hh.ru",
+        "salary_from": 26000,
+        "salary_to": 40000,
+        "employer": "Яндекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80100794",
+        "title": "Менеджер чатов, удалённо (в Яндекс)",
+        "url": "https://api.hh.ru/vacancies/80100794?host=hh.ru",
+        "salary_from": 26000,
+        "salary_to": 40000,
+        "employer": "Яндекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79651926",
+        "title": "Специалист по работе с клиентами (входящий трафик)",
+        "url": "https://api.hh.ru/vacancies/79651926?host=hh.ru",
+        "salary_from": 64000,
+        "salary_to": null,
+        "employer": "Винцарь Тех",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79976467",
+        "title": "Электромонтер",
+        "url": "https://api.hh.ru/vacancies/79976467?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 200000,
+        "employer": "ЭлектроПрометей",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80088340",
+        "title": "Вайб-директор на концерте Джарахова",
+        "url": "https://api.hh.ru/vacancies/80088340?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КликКлак",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80285576",
+        "title": "Личный водитель",
+        "url": "https://api.hh.ru/vacancies/80285576?host=hh.ru",
+        "salary_from": 24000000,
+        "salary_to": 28000000,
+        "employer": "Eye Watch",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79902608",
+        "title": "Whatsapp консультант Яндекс Такси (удаленно)",
+        "url": "https://api.hh.ru/vacancies/79902608?host=hh.ru",
+        "salary_from": 12000000,
+        "salary_to": 16000000,
+        "employer": "Ди Порт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80023033",
+        "title": "Администратор в компьютерный клуб",
+        "url": "https://api.hh.ru/vacancies/80023033?host=hh.ru",
+        "salary_from": 20000000,
+        "salary_to": 28000000,
+        "employer": "GPS4KiD.kz",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80410590",
+        "title": "Семейный водитель",
+        "url": "https://api.hh.ru/vacancies/80410590?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Azimut solutions",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80435068",
+        "title": "Управляющий директор",
+        "url": "https://api.hh.ru/vacancies/80435068?host=hh.ru",
+        "salary_from": 160000000,
+        "salary_to": null,
+        "employer": "Универсал",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79595134",
+        "title": "Сборщик (на дому)",
+        "url": "https://api.hh.ru/vacancies/79595134?host=hh.ru",
+        "salary_from": 5000,
+        "salary_to": 15000,
+        "employer": "Титов Михаил Владимирович",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79430829",
+        "title": "Помощник руководителя",
+        "url": "https://api.hh.ru/vacancies/79430829?host=hh.ru",
+        "salary_from": 24000000,
+        "salary_to": null,
+        "employer": "Orient Capital.kz",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80455497",
+        "title": "Персональный водитель руководителя",
+        "url": "https://api.hh.ru/vacancies/80455497?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 180000,
+        "employer": "Студия звукозаписи Arbath",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80392589",
+        "title": "Сборщик Товаров",
+        "url": "https://api.hh.ru/vacancies/80392589?host=hh.ru",
+        "salary_from": 24000000,
+        "salary_to": 56000000,
+        "employer": "Техника ОПТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79933035",
+        "title": "Модель для примерок",
+        "url": "https://api.hh.ru/vacancies/79933035?host=hh.ru",
+        "salary_from": 25000,
+        "salary_to": 50000,
+        "employer": "ГЛОБУС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79832442",
+        "title": "Менеджер по продажам",
+        "url": "https://api.hh.ru/vacancies/79832442?host=hh.ru",
+        "salary_from": 20000000,
+        "salary_to": 28000000,
+        "employer": "АБДИ Компани",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79424497",
+        "title": "Наборщик текстов",
+        "url": "https://api.hh.ru/vacancies/79424497?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 70000,
+        "employer": "Союз Параллель-ДВ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79421210",
+        "title": "Упаковщик-маркировщик заказов на Маркетплейс Ozon Wildberries",
+        "url": "https://api.hh.ru/vacancies/79421210?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employer": "Александров Юрий Николаевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80421203",
+        "title": "Удаленный специалист службы поддержки",
+        "url": "https://api.hh.ru/vacancies/80421203?host=hh.ru",
+        "salary_from": 26000,
+        "salary_to": 40000,
+        "employer": "Яндекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80222987",
+        "title": "Водитель категория В",
+        "url": "https://api.hh.ru/vacancies/80222987?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": null,
+        "employer": "ТРАНСИМПЕРИАЛПРОМ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80197371",
+        "title": "Личный водитель",
+        "url": "https://api.hh.ru/vacancies/80197371?host=hh.ru",
+        "salary_from": 4000000,
+        "salary_to": 4000000,
+        "employer": "ОсОО Ташболот холдинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80364107",
+        "title": "Тестировщик / QA инженер",
+        "url": "https://api.hh.ru/vacancies/80364107?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Илависта Девелопмент",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78983445",
+        "title": "Менеджер по продажам",
+        "url": "https://api.hh.ru/vacancies/78983445?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 280000,
+        "employer": "Саваратехно",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80421604",
+        "title": "Личный водитель",
+        "url": "https://api.hh.ru/vacancies/80421604?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "City Gas Service",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80320070",
+        "title": "Менеджер по продажам",
+        "url": "https://api.hh.ru/vacancies/80320070?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "UP business",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80393450",
+        "title": "Главный бухгалтер",
+        "url": "https://api.hh.ru/vacancies/80393450?host=hh.ru",
+        "salary_from": 280000,
+        "salary_to": null,
+        "employer": "Мерчулав",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78885079",
+        "title": "Водитель-курьер интернет-магазина",
+        "url": "https://api.hh.ru/vacancies/78885079?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer": "Биз-универсал, ЧП",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79408081",
+        "title": "Администратор Стоматологии",
+        "url": "https://api.hh.ru/vacancies/79408081?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 61200,
+        "employer": "Институт Здоровья",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80451690",
+        "title": "Специалист в пункт выдачи Wildberries",
+        "url": "https://api.hh.ru/vacancies/80451690?host=hh.ru",
+        "salary_from": 52000,
+        "salary_to": 88000,
+        "employer": "Бринг-люкс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80445030",
+        "title": "Персональный водитель для бизнесмена (пос.Гринфилд, 5/2)",
+        "url": "https://api.hh.ru/vacancies/80445030?host=hh.ru",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer": "Адам и Ева и К",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79510310",
+        "title": "Администратор в парк аттракционов",
+        "url": "https://api.hh.ru/vacancies/79510310?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 224000,
+        "employer": "Сенкевич Л.Л.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78463907",
+        "title": "Директор магазина",
+        "url": "https://api.hh.ru/vacancies/78463907?host=hh.ru",
+        "salary_from": 560000000,
+        "salary_to": null,
+        "employer": "GOODZONE TRADING",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80407895",
+        "title": "Администратор аквапарка",
+        "url": "https://api.hh.ru/vacancies/80407895?host=hh.ru",
+        "salary_from": 32000000,
+        "salary_to": 40000000,
+        "employer": "TREE OF LIFE KAZAKHSTAN (ТРИ ОФ ЛАЙФ КАЗАХСТАН)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80088341",
+        "title": "Вайб-директор на концерте Джарахова",
+        "url": "https://api.hh.ru/vacancies/80088341?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КликКлак",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80296809",
+        "title": "Заместитель главного бухгалтера (главный бухгалтер)",
+        "url": "https://api.hh.ru/vacancies/80296809?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Минг Ю",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80461589",
+        "title": "Проджет-менеджер в онлайн проект",
+        "url": "https://api.hh.ru/vacancies/80461589?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "MATCHER (ИП Дегтева Юлия Владимировна)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79568741",
+        "title": "Упаковщица/упаковщик",
+        "url": "https://api.hh.ru/vacancies/79568741?host=hh.ru",
+        "salary_from": 16000000,
+        "salary_to": null,
+        "employer": "Аюпские Сладости",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80382792",
+        "title": "Веб-программист",
+        "url": "https://api.hh.ru/vacancies/80382792?host=hh.ru",
+        "salary_from": 400000000,
+        "salary_to": 960000000,
+        "employer": "Frolov M.A.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79670564",
+        "title": "Няня",
+        "url": "https://api.hh.ru/vacancies/79670564?host=hh.ru",
+        "salary_from": 20000,
+        "salary_to": 80000,
+        "employer": "Орешкина С.Д.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79952945",
+        "title": "WhatsApp менеджер",
+        "url": "https://api.hh.ru/vacancies/79952945?host=hh.ru",
+        "salary_from": 1280000,
+        "salary_to": 1760000,
+        "employer": "Быкова В.П.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78685258",
+        "title": "Консультант интернет-магазина",
+        "url": "https://api.hh.ru/vacancies/78685258?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Monncashmere",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79815659",
+        "title": "Модератор интернет-ресурса \"Kufar\"",
+        "url": "https://api.hh.ru/vacancies/79815659?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Kufar",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78331545",
+        "title": "Продавец-консультант Lacoste/Gant",
+        "url": "https://api.hh.ru/vacancies/78331545?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "5 avenue",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79748763",
+        "title": "Специалист call-центра по работе с клиентами",
+        "url": "https://api.hh.ru/vacancies/79748763?host=hh.ru",
+        "salary_from": 128000,
+        "salary_to": null,
+        "employer": "Саппорт Деск Технолоджис",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79909050",
+        "title": "Администратор-кассир в пиццерию",
+        "url": "https://api.hh.ru/vacancies/79909050?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 104000,
+        "employer": "Экспресс Пицца",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80071509",
+        "title": "Менеджер Инстаграм / Instagram ( smm / смм )",
+        "url": "https://api.hh.ru/vacancies/80071509?host=hh.ru",
+        "salary_from": 24000,
+        "salary_to": 32000,
+        "employer": "Жук А. Д.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80216601",
+        "title": "QA Engineer",
+        "url": "https://api.hh.ru/vacancies/80216601?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КомплИТех",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80395109",
+        "title": "Маркетолог",
+        "url": "https://api.hh.ru/vacancies/80395109?host=hh.ru",
+        "salary_from": 1280000000,
+        "salary_to": 2200000000,
+        "employer": "ЧП AportMedia",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79837607",
+        "title": "Rust Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/79837607?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "ФАУ ЦИАМ им. П.И. Баранова",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80458324",
+        "title": "Персональный водитель руководителя",
+        "url": "https://api.hh.ru/vacancies/80458324?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "employer": "Архипласт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80328779",
+        "title": "Кладовщик",
+        "url": "https://api.hh.ru/vacancies/80328779?host=hh.ru",
+        "salary_from": 20000000,
+        "salary_to": null,
+        "employer": "Copper KZ-СА",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79687560",
+        "title": "Хостес в ресторан ”Eva”",
+        "url": "https://api.hh.ru/vacancies/79687560?host=hh.ru",
+        "salary_from": 24000000,
+        "salary_to": 26400000,
+        "employer": "MONGOL GROUP (МОНГОЛ ГРУПП)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80260205",
+        "title": "Бухгалтер по первичной документации",
+        "url": "https://api.hh.ru/vacancies/80260205?host=hh.ru",
+        "salary_from": 800000000,
+        "salary_to": 4000000000,
+        "employer": "ЧП Быстрова О.А",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80409721",
+        "title": "Водитель",
+        "url": "https://api.hh.ru/vacancies/80409721?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 240000,
+        "employer": "ДифКарго",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80433694",
+        "title": "Бухгалтер",
+        "url": "https://api.hh.ru/vacancies/80433694?host=hh.ru",
+        "salary_from": 176000,
+        "salary_to": 176000,
+        "employer": "ВалдисАгро",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80395190",
+        "title": "Секретарь (отдел кадров с ведением охраны труда)",
+        "url": "https://api.hh.ru/vacancies/80395190?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЭкоВодПроект",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80413516",
+        "title": "Менеджер ресторана",
+        "url": "https://api.hh.ru/vacancies/80413516?host=hh.ru",
+        "salary_from": 30400000,
+        "salary_to": 32000000,
+        "employer": "Sexy People",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80008923",
+        "title": "Технический директор (Главный инженер)",
+        "url": "https://api.hh.ru/vacancies/80008923?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": null,
+        "employer": "Гарантгрупп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80434556",
+        "title": "Продавец-консультант в магазин одежды",
+        "url": "https://api.hh.ru/vacancies/80434556?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "КРИМ ТРЕЙД",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80326693",
+        "title": "Администратор/управляющая (управляющий) студии маникюра",
+        "url": "https://api.hh.ru/vacancies/80326693?host=hh.ru",
+        "salary_from": 64000,
+        "salary_to": 80000,
+        "employer": "Иванова Т. В.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80333185",
+        "title": "Охранник",
+        "url": "https://api.hh.ru/vacancies/80333185?host=hh.ru",
+        "salary_from": 304000000,
+        "salary_to": 360000000,
+        "employer": "Afrosiyob",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80308386",
+        "title": "Начальник службы безопасности",
+        "url": "https://api.hh.ru/vacancies/80308386?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": 240000,
+        "employer": "Тедол",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79397609",
+        "title": "Администратор салона красоты (удаленно)",
+        "url": "https://api.hh.ru/vacancies/79397609?host=hh.ru",
+        "salary_from": 4800000,
+        "salary_to": null,
+        "employer": "Laser beauty KZ ( Лазер бьюти КЗ)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80422470",
+        "title": "UX/UI Figma designer",
+        "url": "https://api.hh.ru/vacancies/80422470?host=hh.ru",
+        "salary_from": 96000,
+        "salary_to": null,
+        "employer": "Эксор ЛТД",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80199212",
+        "title": "Водитель-курьер",
+        "url": "https://api.hh.ru/vacancies/80199212?host=hh.ru",
+        "salary_from": 184000,
+        "salary_to": null,
+        "employer": "Презент Симпл",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79427175",
+        "title": "Оператор в пункт выдачи заказов wildberries",
+        "url": "https://api.hh.ru/vacancies/79427175?host=hh.ru",
+        "salary_from": 20000,
+        "salary_to": 30000,
+        "employer": "Дьячкова Екатерина Сергеевна",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80362037",
+        "title": "Администратор сервисного центра",
+        "url": "https://api.hh.ru/vacancies/80362037?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Рефайти",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80421120",
+        "title": "Персональный водитель руководителя",
+        "url": "https://api.hh.ru/vacancies/80421120?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 100000,
+        "employer": "СИНЕРГИЯ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80437774",
+        "title": "Офис-менеджер/менеджер по работе с клиентами",
+        "url": "https://api.hh.ru/vacancies/80437774?host=hh.ru",
+        "salary_from": 96000,
+        "salary_to": null,
+        "employer": "Вестпак",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80199217",
+        "title": "Менеджер по продажам",
+        "url": "https://api.hh.ru/vacancies/80199217?host=hh.ru",
+        "salary_from": 1280000000,
+        "salary_to": 2160000000,
+        "employer": "ЧП AportMedia",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80308346",
+        "title": "Специалист по кадрам",
+        "url": "https://api.hh.ru/vacancies/80308346?host=hh.ru",
+        "salary_from": 194400,
+        "salary_to": 194400,
+        "employer": "Микромаунт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79684772",
+        "title": "Администратор на дому",
+        "url": "https://api.hh.ru/vacancies/79684772?host=hh.ru",
+        "salary_from": 16000000,
+        "salary_to": 20000000,
+        "employer": "Ansar",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80425431",
+        "title": "Junior QA Engineer",
+        "url": "https://api.hh.ru/vacancies/80425431?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 60000,
+        "employer": "Синтека",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80307074",
+        "title": "Комплаенс-офицер",
+        "url": "https://api.hh.ru/vacancies/80307074?host=hh.ru",
+        "salary_from": 28000000,
+        "salary_to": 32000000,
+        "employer": "ТенизСервис",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79916371",
+        "title": "Оператор-кассир в компьютерный клуб",
+        "url": "https://api.hh.ru/vacancies/79916371?host=hh.ru",
+        "salary_from": 9600000,
+        "salary_to": 11200000,
+        "employer": "M-Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80454771",
+        "title": "Тестировщик/ QA Engineer (Intern)",
+        "url": "https://api.hh.ru/vacancies/80454771?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "YAMI YAMI",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80423714",
+        "title": "Водитель-экспедитор на автомобиле компании",
+        "url": "https://api.hh.ru/vacancies/80423714?host=hh.ru",
+        "salary_from": 116000,
+        "salary_to": 168000,
+        "employer": "ЧТСУП АСНмаркет",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79880799",
+        "title": "Менеджер по текущим клиентам (КазСнаб)",
+        "url": "https://api.hh.ru/vacancies/79880799?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employer": "Рост Развитие Решение",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79383864",
+        "title": "Разнорабочий",
+        "url": "https://api.hh.ru/vacancies/79383864?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": 320000,
+        "employer": "ПлиточкаБай",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80194400",
+        "title": "Оператор 1C",
+        "url": "https://api.hh.ru/vacancies/80194400?host=hh.ru",
+        "salary_from": 112000,
+        "salary_to": 112000,
+        "employer": "Амиго Дистрибьюшн",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79456505",
+        "title": "Менеджер по развитию (Корея)",
+        "url": "https://api.hh.ru/vacancies/79456505?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Meest China",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80249585",
+        "title": "Продавец консультант продукции lux",
+        "url": "https://api.hh.ru/vacancies/80249585?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 220000,
+        "employer": "Aurum Queen",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80421476",
+        "title": "Охранник",
+        "url": "https://api.hh.ru/vacancies/80421476?host=hh.ru",
+        "salary_from": 12000000,
+        "salary_to": 16000000,
+        "employer": "ДУВЦ Гармония",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77704151",
+        "title": "Театральный представитель (удаленно)",
+        "url": "https://api.hh.ru/vacancies/77704151?host=hh.ru",
+        "salary_from": 65000,
+        "salary_to": 125000,
+        "employer": "AFISHA AGENCY",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80389529",
+        "title": "Администратор офиса",
+        "url": "https://api.hh.ru/vacancies/80389529?host=hh.ru",
+        "salary_from": 3360000,
+        "salary_to": null,
+        "employer": "Филиал Некоммерческой корпорации Сорс оф Компэшн в Кыргызской Республике — организация с иностранным участием",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80324696",
+        "title": "Оператор на производство оптики",
+        "url": "https://api.hh.ru/vacancies/80324696?host=hh.ru",
+        "salary_from": 140000,
+        "salary_to": 208000,
+        "employer": "Мамона-Про",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79922122",
+        "title": "Reels-мейкер (Instagram)",
+        "url": "https://api.hh.ru/vacancies/79922122?host=hh.ru",
+        "salary_from": 10400000,
+        "salary_to": null,
+        "employer": "Photography Contest",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80460174",
+        "title": "Java Developer — Junior to Middle (с обучением)",
+        "url": "https://api.hh.ru/vacancies/80460174?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Цифровые привычки",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80410476",
+        "title": "Продавец-консультант",
+        "url": "https://api.hh.ru/vacancies/80410476?host=hh.ru",
+        "salary_from": 56000,
+        "salary_to": null,
+        "employer": "СонМаркет",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78150517",
+        "title": "Менеджер по продажам B2B",
+        "url": "https://api.hh.ru/vacancies/78150517?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 150000,
+        "employer": "ПОНИМАЮ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80442632",
+        "title": "Личный водитель генерального директора",
+        "url": "https://api.hh.ru/vacancies/80442632?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бантер Групп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80465084",
+        "title": "Водитель",
+        "url": "https://api.hh.ru/vacancies/80465084?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "МАНУКЯН",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79477633",
+        "title": "Ассистент руководителя",
+        "url": "https://api.hh.ru/vacancies/79477633?host=hh.ru",
+        "salary_from": 24000000,
+        "salary_to": 80000000,
+        "employer": "MAGNAT ESTATE",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80383457",
+        "title": "Водитель-курьер",
+        "url": "https://api.hh.ru/vacancies/80383457?host=hh.ru",
+        "salary_from": 144000,
+        "salary_to": null,
+        "employer": "ДельтаПринт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79414737",
+        "title": "Помощник депутата Государственной Думы",
+        "url": "https://api.hh.ru/vacancies/79414737?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employer": "Мегаполис-Стиль",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80425197",
+        "title": "Охранник",
+        "url": "https://api.hh.ru/vacancies/80425197?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer": "Первый канал",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80014265",
+        "title": "Администратор выставки",
+        "url": "https://api.hh.ru/vacancies/80014265?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 120000,
+        "employer": "Валова Екатерина Дмитриевна",
+        "api": "HeadHunter"
+    },
+    {
+        "id": 39296320,
+        "title": "Водитель (УАЗ, вахтовка, п\\п вездеход)",
+        "url": "https://borisoglebsk.superjob.ru/vakansii/voditel-39296320.html",
+        "salary_from": 115000,
+        "salary_to": null,
+        "employer": "ЭСК \"Энергомост\"",
+        "api": "Superjob"
+    },
+    {
+        "id": 36736069,
+        "title": "Электрогазосварщик п\\а, Абакан",
+        "url": "https://abakan.superjob.ru/vakansii/elektrogazosvarschik-p-36736069.html",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "Группа компаний \"Система\"",
+        "api": "Superjob"
+    },
+    {
+        "id": 29096257,
+        "title": "Кладовщик в п. Предтеченск",
+        "url": "https://tomsk.superjob.ru/vakansii/kladovschik-v-p-29096257.html",
+        "salary_from": 36000,
+        "salary_to": 39000,
+        "employer": "Строй Парк",
+        "api": "Superjob"
+    },
+    {
+        "id": 40346095,
+        "title": "Уборщик служебных и производственных помещений (Красноярский край, п. Еруда)",
+        "url": "https://irkutsk.superjob.ru/vakansii/uborschik-sluzhebnyh-i-proizvodstvennyh-pomeschenij-40346095.html",
+        "salary_from": 120000,
+        "salary_to": 125000,
+        "employer": "Партнеры Красноярск",
+        "api": "Superjob"
+    },
+    {
+        "id": 36586247,
+        "title": "Фармацевт-провизор, консультант (п. Хапо-Ое)",
+        "url": "https://vsevolozhsk.superjob.ru/vakansii/farmacevt-provizor-36586247.html",
+        "salary_from": 45000,
+        "salary_to": 55000,
+        "employer": "ГК 7 Чудес Света",
+        "api": "Superjob"
+    },
+    {
+        "id": 42409988,
+        "title": "Заведующий аптечным пунктом (п. Липовка)",
+        "url": "https://rezh.superjob.ru/vakansii/zaveduyuschij-aptechnym-punktom-42409988.html",
+        "salary_from": 35000,
+        "salary_to": null,
+        "employer": "Фармация",
+        "api": "Superjob"
+    },
+    {
+        "id": 43079781,
+        "title": "Водитель (категория Е, п. Монтажный)",
+        "url": "https://zarechniy.superjob.ru/vakansii/voditel-43079781.html",
+        "salary_from": null,
+        "salary_to": 55000,
+        "employer": "«Черкизово»",
+        "api": "Superjob"
+    },
+    {
+        "id": 43738101,
+        "title": "Мастер отдела учета электроэнергии (п. Выгоничи)",
+        "url": "https://bryansk.superjob.ru/vakansii/master-otdela-ucheta-elektroenergii-43738101.html",
+        "salary_from": 28000,
+        "salary_to": null,
+        "employer": "Россети Центр и Приволжье",
+        "api": "Superjob"
+    },
+    {
+        "id": 44125988,
+        "title": "Старший менеджер по обслуживанию (п. Малокубанский)",
+        "url": "https://krasnodar.superjob.ru/vakansii/starshij-menedzher-po-obsluzhivaniyu-44125988.html",
+        "salary_from": 7700,
+        "salary_to": null,
+        "employer": "Сбербанк",
+        "api": "Superjob"
+    },
+    {
+        "id": 44329352,
+        "title": "Продавец-консультант (п. Заречье)",
+        "url": "https://odintsovo.superjob.ru/vakansii/prodavec-konsultant-44329352.html",
+        "salary_from": 50000,
+        "salary_to": 60000,
+        "employer": "Азбука вкуса",
+        "api": "Superjob"
+    },
+    {
+        "id": 44827554,
+        "title": "Машинист крана автомобильного Чукотка п. Песчанка",
+        "url": "https://www.superjob.ru/vakansii/mashinist-krana-avtomobilnogo-chukotka-p-44827554.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЭСР",
+        "api": "Superjob"
+    },
+    {
+        "id": 45060978,
+        "title": "Продавец-кассир (п. Птичное)",
+        "url": "https://troitsk.superjob.ru/vakansii/prodavec-kassir-45060978.html",
+        "salary_from": 72200,
+        "salary_to": 83850,
+        "employer": "Фреш Маркет",
+        "api": "Superjob"
+    },
+    {
+        "id": 39693098,
+        "title": "Кладовщик (п. Палатка)",
+        "url": "https://magadan.superjob.ru/vakansii/kladovschik-39693098.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "«Азот-Взрыв»",
+        "api": "Superjob"
+    },
+    {
+        "id": 45956954,
+        "title": "Специалист службы ОТ, П и ПБ",
+        "url": "https://kazan.superjob.ru/vakansii/specialist-sluzhby-ot-45956954.html",
+        "salary_from": 52000,
+        "salary_to": null,
+        "employer": "ПСК АК БАРС СТРОЙ",
+        "api": "Superjob"
+    },
+    {
+        "id": 46223887,
+        "title": "Сварщик п/а (вахта)",
+        "url": "https://tver.superjob.ru/vakansii/svarschik-p-46223887.html",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer": "МЕТМАШКОМПЛЕКТ",
+        "api": "Superjob"
+    },
+    {
+        "id": 46307873,
+        "title": "Продавец-кассир, п. Ильино",
+        "url": "https://ilino.superjob.ru/vakansii/prodavec-kassir-46307873.html",
+        "salary_from": 32000,
+        "salary_to": 35000,
+        "employer": "FIX PRICE",
+        "api": "Superjob"
+    },
+    {
+        "id": 46342086,
+        "title": "Электросварщик п\\а вахта",
+        "url": "https://salsk.superjob.ru/vakansii/elektrosvarschik-p-46342086.html",
+        "salary_from": 90000,
+        "salary_to": null,
+        "employer": "Дон Логистик",
+        "api": "Superjob"
+    },
+    {
+        "id": 46361282,
+        "title": "Сварщик на п/а",
+        "url": "https://kungur.superjob.ru/vakansii/svarschik-na-p-46361282.html",
+        "salary_from": 110000,
+        "salary_to": 118000,
+        "employer": "ГетГрупп",
+        "api": "Superjob"
+    },
+    {
+        "id": 46364574,
+        "title": "P77799-Наладчик контрольно-измерительных приборов и автоматики Не вахта п. Айхал",
+        "url": "https://ayhal.superjob.ru/vakansii/p77799-naladchik-kontrolno-izmeritelnyh-priborov-i-avtomatiki-ne-vahta-p-46364574.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АЛРОСА",
+        "api": "Superjob"
+    },
+    {
+        "id": 46366621,
+        "title": "Монтажник ЖБиМК п. Высокогорный Ванинский район Хабаровского края",
+        "url": "https://yakutsk.superjob.ru/vakansii/montazhnik-zhbimk-p-46366621.html",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer": "ООО \"Р-Восток\"",
+        "api": "Superjob"
+    }
+]
